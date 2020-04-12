@@ -1,6 +1,6 @@
-uno=1
-dos=2
-if uno<dos:
-    print(dos)
+a=1
+b=2
+if a<b:
+    print(b)
 else:
     print("a es mayor que b")
